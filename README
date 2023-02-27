@@ -1,0 +1,19 @@
+I have decided to try to log my activity on the CodeWars website.
+
+For each of the languages I solve katas in, I will have a dedicated directory.
+
+Kata files will have a commented sectioni at the head that describes the problem
+solution requirements.
+
+Below the solution requirements, and still in the comment head, will be the link to
+the actual kata page, so you can try it yourself.
+
+Following the head section will be the actual solution that I cam  up with.
+
+A footer comment line will denote the end of the solution, and may or may not contain
+any text lines that I added for local testing.
+
+If you wish to 'cheat' by using my solution rather than learning from it, you can copy
+and paste everything between the upper comment header, and the footer comment.
+
+Have fun.
