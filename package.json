@@ -2,6 +2,7 @@
   "name": "CodeWarsKatas",
   "version": "1.0.0",
   "dependencies": {
+    "@codewars/test-compat": "^1.1.0",
     "chai": "^4.3.7",
     "mocha": "^10.2.0"
   }
