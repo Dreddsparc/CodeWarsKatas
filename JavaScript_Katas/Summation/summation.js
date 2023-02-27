@@ -13,9 +13,14 @@ https://www.codewars.com/kata/55d24f55d7dd296eb9000030/javascript
  */
 
 var summation = function (num) {
-    // Code here
+    let sum = 0;
+    for (let i = 1; i<=num; i++) {
+        sum += i;
+    }
+    return sum;
 }
 
+// Test code for local testing below this line
 const assert = require('chai').assert;
 
 describe('summation', function () {
